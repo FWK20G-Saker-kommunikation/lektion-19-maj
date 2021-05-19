@@ -14,3 +14,5 @@ Session based cookies vs JWT: https://hackernoon.com/using-session-cookies-vs-jw
 ## Videor
 
 ## Inspelningar
+
+Förmiddag: https://drive.google.com/drive/folders/1bXALHyPcNgQi8_nAn5wOKYoeVCqaBoCk?usp=sharing
