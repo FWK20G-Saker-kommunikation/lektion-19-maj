@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "username": "Ada",
+      "password": "$2b$10$8TR44IqoQWQl4AKORAjTxuP6QCYa2b.WJ7bw7Hw5Ck1HNWQWxDRHq",
+      "email": "ada@lovelace.com",
+      "firstname": "Ada",
+      "lastname": "Lovelace",
+      "role": "user",
+      "id": "caRtTLIO-48PSNtcjqErm"
+    }
+  ]
+}
