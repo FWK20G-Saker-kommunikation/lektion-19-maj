@@ -5,6 +5,8 @@
 Fortsätt på tidigare övningar och implementera en token-based auth med JWT istället för
 cookies.
 
+Airbean: https://gist.github.com/zocom-christoffer-wallenberg/b5845d2f94ebb992fc80ddfb97f4b636
+
 ## Artiklar
 
 JWT: https://jwt.io/
